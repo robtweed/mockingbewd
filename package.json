@@ -1,6 +1,6 @@
 { "name": "mockingbewd", 
   "description": "Mock Web Service & REST Server, including EWD.js emulation", 
-   "version": "0.1.0",
+   "version": "0.1.1",
    "author": "Rob Tweed <rtweed@mgateway.com>", 
    "repository": { 
      "type": "git", 
@@ -10,7 +10,7 @@
    "directories": { 
      "lib" : "./lib/" 
    }, 
-   "main": "./lib/ewdrest.js", 
+   "main": "./lib/mockingbewd.js", 
    "engines": { "node" : ">=0.2.2" }, 
    "dependencies": {
      "traverse": "0.6.6"
